@@ -3,11 +3,11 @@ A simple site to spread awareness about InAmigos Foundation's projects and let p
 
 🔗 Live Site
 
-View Live Website <!-- Replace # with your deployed link -->
+View Live Website : https://srijanibanerjee-prog.github.io/InAmigos-Foundation-Task-1-/
 
-Files
-
-
+Files:
 index.html — page content
+
 style.css — styling
+
 logo.png, background.png — images
