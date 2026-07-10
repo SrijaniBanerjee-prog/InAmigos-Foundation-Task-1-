@@ -6,6 +6,7 @@ A simple site to spread awareness about InAmigos Foundation's projects and let p
 View Live Website : https://srijanibanerjee-prog.github.io/InAmigos-Foundation-Task-1-/
 
 Files:
+
 index.html — page content
 
 style.css — styling
